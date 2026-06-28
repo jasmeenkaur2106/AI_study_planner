@@ -54,10 +54,10 @@ An **AI-powered Study Planner** built with **Python**, **Streamlit**, and the **
 ```text
 AI-Study-Planner/
 │
-├── app.py                 # Main Streamlit application
+├── smart_planner.py                 # Main Streamlit application
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation
-└── assets/                # Images, icons, etc. (optional)
+               # Images, icons, etc. (optional)
 ```
 
 ---
